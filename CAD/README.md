@@ -1,0 +1,1 @@
+Note that files here are SoildWorks Files, but we tend to use Onshape. It is just this file format gives us the most freedom
